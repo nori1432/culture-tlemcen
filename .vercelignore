@@ -1,0 +1,26 @@
+# Utility/setup scripts — not needed in the serverless deployment
+seed.py
+seed_places.py
+fetch_images.py
+download_images.py
+fetch_and_download.py
+fix_missing.py
+get_unique_images.py
+fix_images.py
+copy_images.py
+
+# Logs
+download_log.txt
+fetch_log.txt
+
+# Old static image folder (images live in public/images/ for production)
+static/
+
+# Local database directory
+../database/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env

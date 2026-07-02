@@ -1,0 +1,43 @@
+﻿MD: 168 places, 20 with File: link
+
+Phase 1: Fetching 20 MD File: links via Wikimedia API...
+  [  2] OK: File:Lalla_Setti.JPG
+  [  3] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [  5] OK: File:Mansourah_Mosque,_Tlemcen.jpg
+  [ 13] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [ 21] OK: File:Tlemcen_Mosque_Sidi_El_Benna.png
+  [ 36] OK: File:El_mechouar_palace_in_Tlemcen.jpg
+  [ 38] OK: File:Mansourah_Mosque,_Tlemcen.jpg
+  [ 78] OK: File:Lalla_Setti.JPG
+  [ 88] OK: File:El_mechouar_palace_in_Tlemcen.jpg
+  [103] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [140] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [146] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [151] OK: File:Mansourah_Mosque,_Tlemcen.jpg
+  [152] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [153] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [155] OK: File:Le_minaret_d'Agadir_(Tlemcen).jpeg
+  [159] OK: File:Mansourah_Mosque,_Tlemcen.jpg
+  [161] OK: File:Bab_El_Karmadine.JPG
+  [162] MISS: File:Bab_El_Khemis_(Tlemcen
+  [167] OK: File:El_mechouar_palace_in_Tlemcen.jpg
+
+Phase 2: Fetching category fallback images...
+  mosque: OK (https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mansourah_Mo...)
+  mausoleum: OK (https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Tlemcen_Mans...)
+  school: MISS (File:Coupole_de_la_salle_des_abalutions_de_la_mosquee_de_sidi-el-hallaoui.jpg)
+  civil: OK (https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lalla_Setti....)
+  military: OK (https://upload.wikimedia.org/wikipedia/commons/9/9f/Bab_El_Karmadine.J...)
+  default: OK (https://upload.wikimedia.org/wikipedia/commons/e/e0/Le_minaret_d%27Aga...)
+
+Phase 3: Downloading 168 images...
+  30/168 done (30 OK)
+  60/168 done (60 OK)
+  90/168 done (90 OK)
+  120/168 done (119 OK)
+
+Download: 131/168 OK | Failed: 37: [138, 136, 109, 143, 141, 114, 148, 117, 120, 156, 119, 158, 127, 125, 166, 124, 163, 132, 130, 129]
+
+Phase 4: Updating database...
+DB updated: 168 places.
+All done.
